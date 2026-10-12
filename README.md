@@ -1,6 +1,6 @@
 # Simple Blog App
 
-A colorful Java Swing desktop application that allows users to create, read, and delete blog posts.
+A  Java Swing desktop application that allows users to create, read, and delete blog posts.
 
 ## Features
 - Create blog posts with a title and content
